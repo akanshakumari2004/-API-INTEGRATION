@@ -60,4 +60,6 @@ Browser: Google Chrome or Firefox for testing
 
 #OUTPUT
 
+<img width="580" height="370" alt="Image" src="https://github.com/user-attachments/assets/5ec61e3e-a32d-426f-9fe6-87f4c2b3bbc4" />
+
 
