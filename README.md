@@ -57,3 +57,7 @@ API: OpenWeatherMap API or any other public weather API
 Browser: Google Chrome or Firefox for testing
 
 (Optional) Git/GitHub if version control was used
+
+#OUTPUT
+
+
